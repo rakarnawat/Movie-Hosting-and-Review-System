@@ -1,0 +1,14 @@
+.MovieNavBar{
+    position: fixed;
+    top: 0vh;
+    width: 100vw;
+    z-index: 99;
+    overflow: hidden;
+}
+
+.nav-link{
+    position: relative;
+    left: 90vw;
+    margin-right: 5vw;
+    overflow: hidden;
+}
