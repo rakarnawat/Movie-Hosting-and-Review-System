@@ -6,7 +6,7 @@ import {Link, useNavigate} from "react-router-dom";
 import Button from 'react-bootstrap/Button';
 import Carousel from 'react-material-ui-carousel';
 // import { Grid } from "@material-ui/core";
-import {MoviesData} from './MoviesData';
+//import {MoviesData} from './MoviesData';
 
 const MoviesList = ({movies}) => {
    
@@ -44,14 +44,13 @@ return (
          {/* <Grid item sm={12}> */}
         {movies?.map((movie) =>{
             return(
-                <Paper key={movie.imdbId}>
+                <Paper key={movie.imdbId} className='MovieListPaper'>
                 <div key={movie.title}>
                     <div className="moviesContainerList">
                         <Link to={`/Trailer/${movie.trailerLink?.substring(movie.trailerLink.length - 11)}`}>
                         <img src={movie.poster} alt={`${movie.title}`} width="200"/>
                         </Link>
                     </div>
-                <hr/>
                 </div>
             </Paper>
                 )
@@ -61,7 +60,8 @@ return (
 
         </div>
         </div>
-        <footer className='FooterClass'> 
+        <footer className='FooterClass'>
+        <hr />
             <h1>Thank You For Visiting!</h1>
         </footer>
     </div>

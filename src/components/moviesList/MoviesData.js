@@ -1,4 +1,4 @@
-export const MoviesData = [
+[
   {
     "imdbId": "tt3915174",
     "title": "Puss in Boots: The Last Wish",
@@ -252,5 +252,280 @@ export const MoviesData = [
       "https://image.tmdb.org/t/p/original/rdDL4y7BxGyXFEDJgAG4lz89bG2.jpg"
     ],
     "reviewIds": []
+  },
+  {
+    "imdbId": "tt8093800",
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "releaseDate": "2023-02-15",
+    "trailerLink": "https://www.youtube.com/watch?v=ZlNFpri-Y40",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster": "https://www.themoviedb.org/t/p/original/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/3CxUndGhUcZdt1Zggjdb2HkLLQX.jpg",
+      "https://image.tmdb.org/t/p/original/gMJngTNfaqCSCqGD4y8lVMZXKDn.jpg",
+      "https://image.tmdb.org/t/p/original/7WxVKp35lxxGUin8eLvTkDcr5Ke.jpg",
+      "https://image.tmdb.org/t/p/original/zhSunwjOsNJ401vpPwBDHlhvLHj.jpg",
+      "https://image.tmdb.org/t/p/original/wtFiIjFn4mcV1CRxbW6WFlFmWuA.jpg",
+      "https://image.tmdb.org/t/p/original/3CxUndGhUcZdt1Zggjdb2HkLLQX.jpg",
+      "https://image.tmdb.org/t/p/original/gMJngTNfaqCSCqGD4y8lVMZXKDn.jpg",
+      "https://image.tmdb.org/t/p/original/7WxVKp35lxxGUin8eLvTkDcr5Ke.jpg",
+      "https://image.tmdb.org/t/p/original/zhSunwjOsNJ401vpPwBDHlhvLHj.jpg",
+      "https://image.tmdb.org/t/p/original/wtFiIjFn4mcV1CRxbW6WFlFmWuA.jpg",
+          ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt8093900",
+    "title": "Shazam! Fury of the Gods",
+    "releaseDate": "2023-17-03",
+    "trailerLink": "https://www.youtube.com/watch?v=Zi88i4CpHe4",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster": "https://www.themoviedb.org/t/p/original/2VK4d3mqqTc7LVZLnLPeRiPaJ71.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/nDxJJyA5giRhXx96q1sWbOUjMBI.jpg",
+      "https://image.tmdb.org/t/p/original/ot1WzjD045nA1QsCHtuZE8SOBLB.jpg",
+      "https://image.tmdb.org/t/p/original/5HpDmq6nWTRCcvRynYKqgfLtqMb.jpg",
+      "https://image.tmdb.org/t/p/original/yVm4ZO0wZEC3csKpFMLpJXNhucB.jpg",
+      "https://image.tmdb.org/t/p/original/nDxJJyA5giRhXx96q1sWbOUjMBI.jpg",
+      "https://image.tmdb.org/t/p/original/ot1WzjD045nA1QsCHtuZE8SOBLB.jpg",
+      "https://image.tmdb.org/t/p/original/5HpDmq6nWTRCcvRynYKqgfLtqMb.jpg",
+      "https://image.tmdb.org/t/p/original/yVm4ZO0wZEC3csKpFMLpJXNhucB.jpg",
+      "https://image.tmdb.org/t/p/original/yVm4ZO0wZEC3csKpFMLpJXNhucB.jpg",
+          ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt8094000",
+    "title": "Scream VI",
+    "releaseDate": "2023-08-02",
+    "trailerLink": "https://www.youtube.com/watch?v=h74AXqw4Opc",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster": "https://www.themoviedb.org/t/p/original/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/xRasrVcMrkCK2gcIJRERDBmjQHo.jpg",
+      "https://image.tmdb.org/t/p/original/4DeIeFiFwHnScQ0pxqgsyg3Fafq.jpg",
+      "https://image.tmdb.org/t/p/original/xRasrVcMrkCK2gcIJRERDBmjQHo.jpg",
+      "https://image.tmdb.org/t/p/original/4DeIeFiFwHnScQ0pxqgsyg3Fafq.jpg",
+      "https://image.tmdb.org/t/p/original/xRasrVcMrkCK2gcIJRERDBmjQHo.jpg",
+      "https://image.tmdb.org/t/p/original/4DeIeFiFwHnScQ0pxqgsyg3Fafq.jpg",
+      "https://image.tmdb.org/t/p/original/xRasrVcMrkCK2gcIJRERDBmjQHo.jpg",
+      "https://image.tmdb.org/t/p/original/4DeIeFiFwHnScQ0pxqgsyg3Fafq.jpg",
+      "https://image.tmdb.org/t/p/original/xRasrVcMrkCK2gcIJRERDBmjQHo.jpg",
+      "https://image.tmdb.org/t/p/original/4DeIeFiFwHnScQ0pxqgsyg3Fafq.jpg",
+          ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt8094200",
+    "title": "Creed III",
+    "releaseDate": "2023-03-03",
+    "trailerLink": "https://www.youtube.com/watch?v=xTaIZo8OJYE",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "poster": "https://www.themoviedb.org/t/p/original/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/26YLjaC1udGEmSvlM1P5eBGWO5h.jpg",
+      "https://image.tmdb.org/t/p/original/eveedgggRBs2J7qFXmG5lgxYXr9.jpg",
+      "https://image.tmdb.org/t/p/original/rV54txX9Whz7o66qoPz0VDLTvUU.jpg",
+      "https://image.tmdb.org/t/p/original/eveedgggRBs2J7qFXmG5lgxYXr9.jpg",
+      "https://image.tmdb.org/t/p/original/rV54txX9Whz7o66qoPz0VDLTvUU.jpg",
+      "https://image.tmdb.org/t/p/original/eveedgggRBs2J7qFXmG5lgxYXr9.jpg",
+      "https://image.tmdb.org/t/p/original/rV54txX9Whz7o66qoPz0VDLTvUU.jpg",
+      "https://image.tmdb.org/t/p/original/eveedgggRBs2J7qFXmG5lgxYXr9.jpg",
+      "https://image.tmdb.org/t/p/original/26YLjaC1udGEmSvlM1P5eBGWO5h.jpg",
+      "https://image.tmdb.org/t/p/original/rV54txX9Whz7o66qoPz0VDLTvUU.jpg",
+          ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt8094300",
+    "title": "Peter Pan & Wendy",
+    "releaseDate": "2023-25-04",
+    "trailerLink": "https://www.youtube.com/watch?v=p-5sVX7MRj8",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster": "https://www.themoviedb.org/t/p/original/9NXAlFEE7WDssbXSMgdacsUD58Y.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/naUmp84SL0frKEzErC1kBfjzbXp.jpg",
+      "https://image.tmdb.org/t/p/original/ov8dy3tyXNwbwxxObtoRinLki3v.jpg",
+      "https://image.tmdb.org/t/p/original/naUmp84SL0frKEzErC1kBfjzbXp.jpg",
+      "https://image.tmdb.org/t/p/original/ov8dy3tyXNwbwxxObtoRinLki3v.jpg",
+      "https://image.tmdb.org/t/p/original/naUmp84SL0frKEzErC1kBfjzbXp.jpg",
+      "https://image.tmdb.org/t/p/original/ov8dy3tyXNwbwxxObtoRinLki3v.jpg",
+      "https://image.tmdb.org/t/p/original/naUmp84SL0frKEzErC1kBfjzbXp.jpg",
+      "https://image.tmdb.org/t/p/original/ov8dy3tyXNwbwxxObtoRinLki3v.jpg",
+      "https://image.tmdb.org/t/p/original/naUmp84SL0frKEzErC1kBfjzbXp.jpg",
+      "https://image.tmdb.org/t/p/original/ov8dy3tyXNwbwxxObtoRinLki3v.jpg",
+          ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt8094400",
+    "title": "The Pope's Exorcist",
+    "releaseDate": "2023-14-04",
+    "trailerLink": "https://www.youtube.com/watch?v=YJXqvnT_rsk",
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "poster": "https://www.themoviedb.org/t/p/original/9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/3oqmk6mNWPatBKcjOOJLp5WW9zN.jpg",
+      "https://image.tmdb.org/t/p/original/5KNNi3hhj6cYWS3b13zYt1RlvLv.jpg",
+      "https://image.tmdb.org/t/p/original/3oqmk6mNWPatBKcjOOJLp5WW9zN.jpg",
+      "https://image.tmdb.org/t/p/original/5KNNi3hhj6cYWS3b13zYt1RlvLv.jpg",
+      "https://image.tmdb.org/t/p/original/3oqmk6mNWPatBKcjOOJLp5WW9zN.jpg",
+      "https://image.tmdb.org/t/p/original/5KNNi3hhj6cYWS3b13zYt1RlvLv.jpg",
+      "https://image.tmdb.org/t/p/original/3oqmk6mNWPatBKcjOOJLp5WW9zN.jpg",
+      "https://image.tmdb.org/t/p/original/5KNNi3hhj6cYWS3b13zYt1RlvLv.jpg",
+      "https://image.tmdb.org/t/p/original/3oqmk6mNWPatBKcjOOJLp5WW9zN.jpg",
+      "https://image.tmdb.org/t/p/original/5KNNi3hhj6cYWS3b13zYt1RlvLv.jpg",
+          ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt8094500",
+    "title": "Knights of the Zodiac",
+    "releaseDate": "2023-15-05",
+    "trailerLink": "https://www.youtube.com/watch?v=Sko0o_KoBHY",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster": "https://www.themoviedb.org/t/p/original/tBiUXvCqz34GDeuY7jK14QQdtat.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/u17VLZqWFbeJsj1HpvB6QOOHvlC.jpg",
+      "https://image.tmdb.org/t/p/original/idChPXPU7PbQ6an7BWkbSVCw47P.jpg",
+      "https://image.tmdb.org/t/p/original/u17VLZqWFbeJsj1HpvB6QOOHvlC.jpg",
+      "https://image.tmdb.org/t/p/original/idChPXPU7PbQ6an7BWkbSVCw47P.jpg",
+      "https://image.tmdb.org/t/p/original/u17VLZqWFbeJsj1HpvB6QOOHvlC.jpg",
+      "https://image.tmdb.org/t/p/original/idChPXPU7PbQ6an7BWkbSVCw47P.jpg",
+      "https://image.tmdb.org/t/p/original/u17VLZqWFbeJsj1HpvB6QOOHvlC.jpg",
+      "https://image.tmdb.org/t/p/original/idChPXPU7PbQ6an7BWkbSVCw47P.jpg",
+      "https://image.tmdb.org/t/p/original/u17VLZqWFbeJsj1HpvB6QOOHvlC.jpg",
+      "https://image.tmdb.org/t/p/original/idChPXPU7PbQ6an7BWkbSVCw47P.jpg",
+          ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt8094600",
+    "title": "Sisu",
+    "releaseDate": "2023-28-04",
+    "trailerLink": "https://www.youtube.com/watch?v=d2k4QAItiSA",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "poster": "https://www.themoviedb.org/t/p/original/dHx5yuBb05U9vNaNhIBD7jWyxPk.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/x9Misp6hEpA8k9VsrTLfFZ0SK46.jpg",
+      "https://image.tmdb.org/t/p/original/3PC5TtecVBABhODJbBZPWBQopZO.jpg",
+      "https://image.tmdb.org/t/p/original/x9Misp6hEpA8k9VsrTLfFZ0SK46.jpg",
+      "https://image.tmdb.org/t/p/original/3PC5TtecVBABhODJbBZPWBQopZO.jpg",
+      "https://image.tmdb.org/t/p/original/x9Misp6hEpA8k9VsrTLfFZ0SK46.jpg",
+      "https://image.tmdb.org/t/p/original/3PC5TtecVBABhODJbBZPWBQopZO.jpg",
+      "https://image.tmdb.org/t/p/original/x9Misp6hEpA8k9VsrTLfFZ0SK46.jpg",
+      "https://image.tmdb.org/t/p/original/3PC5TtecVBABhODJbBZPWBQopZO.jpg",
+      "https://image.tmdb.org/t/p/original/x9Misp6hEpA8k9VsrTLfFZ0SK46.jpg",
+      "https://image.tmdb.org/t/p/original/3PC5TtecVBABhODJbBZPWBQopZO.jpg",
+          ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt8094700",
+    "title": "Guy Ritchie's The Covenant",
+    "releaseDate": "2023-21-04",
+    "trailerLink": "https://www.youtube.com/watch?v=02PPMPArNEQ",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster": "https://www.themoviedb.org/t/p/original/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/vnPTLSBk95XKdahOaMkTlAck5Rc.jpg",
+      "https://image.tmdb.org/t/p/original/8sFVf1JrGQaDb55MsCklMIaflR4.jpg",
+      "https://image.tmdb.org/t/p/original/vnPTLSBk95XKdahOaMkTlAck5Rc.jpg",
+      "https://image.tmdb.org/t/p/original/8sFVf1JrGQaDb55MsCklMIaflR4.jpg",
+      "https://image.tmdb.org/t/p/original/vnPTLSBk95XKdahOaMkTlAck5Rc.jpg",
+      "https://image.tmdb.org/t/p/original/8sFVf1JrGQaDb55MsCklMIaflR4.jpg",
+      "https://image.tmdb.org/t/p/original/vnPTLSBk95XKdahOaMkTlAck5Rc.jpg",
+      "https://image.tmdb.org/t/p/original/8sFVf1JrGQaDb55MsCklMIaflR4.jpg",
+      "https://image.tmdb.org/t/p/original/vnPTLSBk95XKdahOaMkTlAck5Rc.jpg",
+      "https://image.tmdb.org/t/p/original/8sFVf1JrGQaDb55MsCklMIaflR4.jpg",
+          ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt8094800",
+    "title": "The Black Demon",
+    "releaseDate": "2023-28-04",
+    "trailerLink": "https://www.youtube.com/watch?v=z1xJAyVKAPY",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster": "https://www.themoviedb.org/t/p/original/tunkzmPqpxqK24MxqrrEf9mC53r.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/zRTaGcxfZVvwAgQYHcklCjjpbGh.jpg",
+      "https://image.tmdb.org/t/p/original/8kZu1HNYRI0133Rb1CoQkLoQRy6.jpg",
+      "https://image.tmdb.org/t/p/original/zRTaGcxfZVvwAgQYHcklCjjpbGh.jpg",
+      "https://image.tmdb.org/t/p/original/8kZu1HNYRI0133Rb1CoQkLoQRy6.jpg",
+      "https://image.tmdb.org/t/p/original/zRTaGcxfZVvwAgQYHcklCjjpbGh.jpg",
+      "https://image.tmdb.org/t/p/original/8kZu1HNYRI0133Rb1CoQkLoQRy6.jpg",
+      "https://image.tmdb.org/t/p/original/zRTaGcxfZVvwAgQYHcklCjjpbGh.jpg",
+      "https://image.tmdb.org/t/p/original/8kZu1HNYRI0133Rb1CoQkLoQRy6.jpg",
+      "https://image.tmdb.org/t/p/original/zRTaGcxfZVvwAgQYHcklCjjpbGh.jpg",
+      "https://image.tmdb.org/t/p/original/8kZu1HNYRI0133Rb1CoQkLoQRy6.jpg",
+          ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt8095000",
+    "title": "Guardians of the Galaxy Volume 3",
+    "releaseDate": "2023-05-05",
+    "trailerLink": "https://www.youtube.com/watch?v=u3V5KDHRQvk",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "poster": "https://www.themoviedb.org/t/p/original/bCXgdvCobMHYIGblzbaNMF4SnCm.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/A7JQ7MIV5fkIxceI5hizRIe6DRJ.jpg",
+      "https://image.tmdb.org/t/p/original/A9s8TtIlNkH317GAtO5mgLKytey.jpg",
+      "https://image.tmdb.org/t/p/original/ujrrlw1ZwOMPe4kM09KydH2mGZe.jpg",
+      "https://image.tmdb.org/t/p/original/A9s8TtIlNkH317GAtO5mgLKytey.jpg",
+      "https://image.tmdb.org/t/p/original/A7JQ7MIV5fkIxceI5hizRIe6DRJ.jpg",
+      "https://image.tmdb.org/t/p/original/A9s8TtIlNkH317GAtO5mgLKytey.jpg",
+      "https://image.tmdb.org/t/p/original/ujrrlw1ZwOMPe4kM09KydH2mGZe.jpg",
+      "https://image.tmdb.org/t/p/original/A7JQ7MIV5fkIxceI5hizRIe6DRJ.jpg",
+      "https://image.tmdb.org/t/p/original/A9s8TtIlNkH317GAtO5mgLKytey.jpg",
+      "https://image.tmdb.org/t/p/original/ujrrlw1ZwOMPe4kM09KydH2mGZe.jpg",
+          ],
+    "reviewIds": []
   }
 ]
+
+

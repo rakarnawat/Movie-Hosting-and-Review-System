@@ -1,0 +1,15 @@
+.ReviewClass{
+    position: relative;
+    top: 10vh;
+    display: block;
+    z-index: 3;
+    border: none;
+}
+.moviePosterReview{
+    height: 55vh;
+    margin: 0.hvh;
+}
+
+.ReviewText{
+    color: aliceblue;
+}

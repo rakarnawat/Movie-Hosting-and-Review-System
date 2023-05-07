@@ -1,0 +1,12 @@
+.ReviewFormClass{
+    position: relative;
+    margin: 00.5vh;
+    display: block;
+    width: auto;
+    height: auto;
+    z-index: 4;
+}
+
+.formController{
+    background-color: rgba(244, 244, 244, 0.966);
+}

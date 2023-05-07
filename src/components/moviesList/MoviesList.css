@@ -1,12 +1,11 @@
 .MoviesListMain{
     position: absolute;
     top: 70vh;
-    height: 100vh;
-    width: 99.5vw;
-    overflow: hidden;
+    height: auto;
+    width: 100vw;
     z-index: 2;
     
-  background-color: black;
+  background-color: rgb(0, 0, 0);
 }
 
 .MoviesListHeader{
@@ -23,26 +22,35 @@
     top: 10vh;
     display: flex;
     left: 0vw;
-    width: 99.5vh;
-    height: 100vh;
-    margin: 3%;
+    width: 85vw;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-bottom: 3vh;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 1vh;
     background-color: rgba(0, 0, 0, 0);
 }
 
 .MoviesListMap{
     display: flex;
     position: relative;
-    background-color: rgba(0, 0, 0, 0);
-    width: 80vw;
-    height: 30vh;
-    column-gap: 1vh;
-
+    background-color: rgba(255, 255, 255, 0);
+    width: 99vw;
+    row-gap: 5vw;
+    height: auto;
+    border: none;
+    column-gap: 3vh;
     flex-direction: row;
     justify-content: space-around;
     flex-flow: wrap;
 }
-@media screen  and (max-width:99.5vw) {
-    .moviesContainerList{
+.MovieListPaper{
+    background-color: rgba(0, 0, 0, 0);
+}
+@media screen  and (max-width:10vw) {
+    .MoviesListMap{
         width: 40%;
     }
 }
@@ -52,13 +60,23 @@
     }
 }
 .moviesContainerList{
-
+    position: relative;
+    display: block;
+}
+.moviesContainerList:hover{
+    transform: scale(1.2);
+    z-index: 3;
 }
 .FooterClass{
     position: relative;
-    width: 99.5vh;
-    height: 10vh;
-    z-index: 10;
     display: block;
-    background-color: rgb(250, 235, 215);
+    margin-top: 50vh;
+    width: 99.5vw;
+    height: 10vh;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: rgba(219, 219, 219, 0.833);
+    display: block;
+    overflow: hidden;
 }

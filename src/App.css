@@ -7,6 +7,11 @@
 body{
   padding:0;
   margin:0;
+  height: auto;
+  background-color: black;
+}
+body::-webkit-scrollbar{
+  display: none;
 }
 .App{
   display: flex;
