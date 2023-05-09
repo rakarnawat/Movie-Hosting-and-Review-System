@@ -15,6 +15,7 @@
     text-indent: 3vw;
     color: rgba(219, 219, 219, 0.833);
     z-index: 2;
+    cursor:default;
 }
 
 .MoviesContainer{
@@ -81,4 +82,5 @@
     color: rgba(219, 219, 219, 0.833);
     display: block;
     overflow: hidden;
+    cursor: default;
 }

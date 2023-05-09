@@ -11,6 +11,7 @@
     left: 2vw;
     z-index: 2;
     color: rgba(233, 233, 233, 0.833);
+    cursor: default;
 }
 .movie-poster{
     height: 300px;
