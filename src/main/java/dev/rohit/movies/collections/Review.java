@@ -1,4 +1,4 @@
-package dev.rohit.movies;
+package dev.rohit.movies.collections;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

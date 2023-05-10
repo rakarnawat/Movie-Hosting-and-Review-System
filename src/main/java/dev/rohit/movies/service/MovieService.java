@@ -1,7 +1,7 @@
-package dev.rohit.movies.Service;
+package dev.rohit.movies.service;
 
-import dev.rohit.movies.Movie;
-import dev.rohit.movies.Repository.MovieRepository;
+import dev.rohit.movies.collections.Movie;
+import dev.rohit.movies.repository.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
