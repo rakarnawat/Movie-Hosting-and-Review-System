@@ -1,5 +1,5 @@
 import {Form,Button} from 'react-bootstrap';
-//import './ReviewForm.css';
+import './ReviewForm.css';
 const ReviewForm = ({handleSubmit,revText,labelText,defaultValue}) => {
   return (
 
@@ -8,7 +8,7 @@ const ReviewForm = ({handleSubmit,revText,labelText,defaultValue}) => {
             <Form.Label>{labelText}</Form.Label>
             <Form.Control ref={revText} as="textarea" rows={3} defaultValue={defaultValue} className='formController' />
         </Form.Group>
-        <Button variant="outline-info" onClick={handleSubmit}>Submit</Button>
+        <Button className='ReviewSubmitBtn' variant="outline-info" onClick={handleSubmit}>Submit</Button>
     </Form>   
 
   )

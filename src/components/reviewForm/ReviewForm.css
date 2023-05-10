@@ -5,8 +5,18 @@
     width: auto;
     height: auto;
     z-index: 4;
+    font-size: 1.1vw;
 }
 
 .formController{
     background-color: rgba(244, 244, 244, 0.966);
+}
+
+.ReviewSubmitBtn{
+    position: relative;
+    top: 29vh;
+    width: 15vw;
+    height: 5vh;
+    border-radius: 22px;
+    font-size: 1.2vw;
 }
