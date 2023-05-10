@@ -1,5 +1,6 @@
-package dev.rohit.movies;
+package dev.rohit.movies.Repository;
 
+import dev.rohit.movies.Review;
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;

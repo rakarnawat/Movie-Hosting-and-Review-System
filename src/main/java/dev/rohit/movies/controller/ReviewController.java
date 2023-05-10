@@ -1,5 +1,7 @@
-package dev.rohit.movies;
+package dev.rohit.movies.controller;
 
+import dev.rohit.movies.Review;
+import dev.rohit.movies.Service.ReviewService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

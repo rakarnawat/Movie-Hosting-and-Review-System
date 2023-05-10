@@ -1,5 +1,8 @@
-package dev.rohit.movies;
+package dev.rohit.movies.Service;
 
+import dev.rohit.movies.Movie;
+import dev.rohit.movies.Repository.ReviewRepository;
+import dev.rohit.movies.Review;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
